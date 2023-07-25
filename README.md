@@ -32,7 +32,7 @@ A FullStack application created with ReactJS, SpringBoot and MongoDb.
 
 - #### Running Project
   
-- [x] Open the ```SpringMongoProject``` with IntelliJ Idea<br>
+- [x] Open the ```SpringMongoProject``` folder with IntelliJ Idea<br>
 - [x] Run the Project 
 
 - #### MongoDB
