@@ -1,6 +1,9 @@
 # FullStack-App-Project
 
 A FullStack application created with ReactJS, SpringBoot and MongoDb.
+<br>
+
+<img src="assets/page1.png"  style="width:1000px">
 
 ## Installation - ReactJS
  
@@ -31,6 +34,11 @@ A FullStack application created with ReactJS, SpringBoot and MongoDb.
   
 - [x] Open the ```SpringMongoProject``` with IntelliJ Idea<br>
 - [x] Run the Project 
+
+- #### MongoDB
+
+<img src="assets/db.png"  style="width:1000px">
+
 
 
 
